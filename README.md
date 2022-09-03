@@ -4,6 +4,8 @@ Is a VST3 pluginproject about a plugin that is reporting if other plugins betwee
 
 This plugin isn't working in Sonar 8 because it doesnt report PDC apparently.
 
+Here is a tutorial over how to use the plugin: https://www.youtube.com/watch?v=ZeVDHgCQW8c
+
 Under the GPL-3.0 license
 
 VST® is a trademark of Steinberg Media Technologies GmbH, registered in Europe and other countries.
